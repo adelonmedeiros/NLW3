@@ -19,6 +19,10 @@
 
 <p align="center">
   <img alt="Happy" src=".github/happy1.png" width="100%">
+  <img alt="Happy" src=".github/happy2.png" width="100%">
+  <img alt="Happy" src=".github/happy3.png" width="100%">
+  <img alt="Happy" src=".github/happy4.png" width="100%">
+  <img alt="Happy" src=".github/happy5.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
